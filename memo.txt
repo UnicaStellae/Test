@@ -1,0 +1,2 @@
+	console.log(" 메모장 입니다.")
+vim? 
