@@ -8,3 +8,5 @@ function showName() {
 console.log(name);
 showName();
 console.log(name);
+
+// 테스트 테스트 테스트
